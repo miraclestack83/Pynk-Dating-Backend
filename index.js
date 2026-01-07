@@ -119,7 +119,7 @@ app.get("/*", function (req, res) {
 });
 
 //mongodb connection
-mongoose.connect(`mongodb+srv://geniusdev0813:1qXTL5DZEkJiMXJ7@pynkdating.ncbko17.mongodb.net/pynk`, {
+mongoose.connect(``, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
