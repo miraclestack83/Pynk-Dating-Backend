@@ -16,5 +16,5 @@ module.exports = {
   baseURL: "http://54.159.96.157/",
 
   //firebase server key for notification
-  SERVER_KEY: "AAAAy9B6g-A:APA91bF_5FvwdLSyzyHNhVGcv71hWkagdJ6K4-cvQkKMKSoP3Qe2rCZx8UTGkg12-hfQSfoBJBEQzQ2LO5wWtHBFrVfYY1QB1MqOVCT8c9QB0c_vOj72WONsIgEqMuMrDJVcE3ITlsEI",
+  SERVER_KEY: "",
 };
